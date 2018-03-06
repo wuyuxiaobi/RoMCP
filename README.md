@@ -1,6 +1,9 @@
 # RoMCP
 RoMCP is a new representation about medical features. It can capture both diagnosis information and temporal relations between days. The learned diagnosis embedding grasps the key factors of the disease, and each day embedding is determined by the diagnosis together with the preorder days.
 
+More detail can be referred to the following paper:
+Xiao Xu, Ying Wang, Tao Jin and Jianmin Wang. Learning the Representation of Medical Features for Clinical Pathway Analysis. DASFAA, 2018. 
+
 ---
 
 ### Running RoMCP
