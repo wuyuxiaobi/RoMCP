@@ -3,7 +3,7 @@ RoMCP is a new representation about medical features. It can capture both diagno
 
 __More detail can be referred to the following paper:__
 
- Xiao Xu, Ying Wang, Tao Jin and Jianmin Wang. Learning the Representation of Medical Features for Clinical Pathway Analysis. DASFAA, 2018. 
+   > Xiao Xu, Ying Wang, Tao Jin and Jianmin Wang. Learning the Representation of Medical Features for Clinical Pathway Analysis. DASFAA, 2018. 
 
 ---
 
